@@ -2,6 +2,7 @@ body {background-color: darkcyan;
 }
 h2 {text-align: center;
     color: lightskyblue;
+    font-size: 200%;
 }
 #ima1 {width: 30%;
        border-width: 15px;
@@ -15,9 +16,12 @@ h2 {text-align: center;
 }
 h1 {text-align: center;
    color: lightskyblue;
+   font-size: 200%;
 }
 h3 {text-align: center;
     color: lightskyblue;
+    font-size: 200%;
+}
 }
 #ima3 {width: 70%;
     border-style: dashed;
@@ -26,6 +30,8 @@ h3 {text-align: center;
 }
 h4 {text-align: center;
     color: lightskyblue;
+    font-size: 200%;
+}
 }
 #ima4 {width: 70%;
    border-style: groove;
