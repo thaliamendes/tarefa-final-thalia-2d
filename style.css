@@ -23,6 +23,7 @@ h1 {text-align: center;
    border-width: 10px;
    border-color: blue;
    border-style: inherit;
+}
 h3 {text-align: center;
     color: lightskyblue;
     font-size: 200%;
