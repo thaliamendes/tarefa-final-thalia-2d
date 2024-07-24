@@ -33,7 +33,7 @@ h3 {text-align: center;
 }
 
 #ima3 {width: 70%;
-    border-style: dashed;
+    border-style: double;
     border-color: blueviolet;
     border-width: 15px;
 }
@@ -46,7 +46,7 @@ h4 {text-align: center;
 }
 
 #ima4 {width: 60%;
-   border-style: groove;
+   border-style: dashed;
    border-color: aquamarine;
    border-width: 15px;
 }
