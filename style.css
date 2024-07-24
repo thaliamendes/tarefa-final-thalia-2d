@@ -3,6 +3,9 @@ body {background-color: darkcyan;
 h2 {text-align: center;
     color: lightskyblue;
     font-size: 200%;
+    border-width: 10px;
+    border-color: blueviolet;
+    border-style: dashed;
 }
 #ima1 {width: 30%;
        border-width: 15px;
@@ -17,10 +20,15 @@ h2 {text-align: center;
 h1 {text-align: center;
    color: lightskyblue;
    font-size: 200%;
-}
+   border-width: 10px;
+   border-color: blue;
+   border-style: inherit;
 h3 {text-align: center;
     color: lightskyblue;
     font-size: 200%;
+    border-width: 10px;
+    border-color: aqua;
+    border-style: initial;
 }
 
 #ima3 {width: 70%;
@@ -31,6 +39,9 @@ h3 {text-align: center;
 h4 {text-align: center;
     color: lightskyblue;
     font-size: 200%;
+    border-style: double;
+    border-color: black;
+    border-width: 10px;
 }
 
 #ima4 {width: 70%;
